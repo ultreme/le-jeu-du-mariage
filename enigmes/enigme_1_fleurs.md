@@ -4,12 +4,15 @@
 
 <details>
   <summary>Clé de résolution arc-en-ciel, à trouver dans la pièce</summary>
-  
+ 
+ Les lettres entourées sur les fleurs 1, 2, 3, 4 et 5 respectivement rouge, orange, jaune, vert puis bleu nous donne "é v i e r"
+
 ![](./clé_résolution_arc_en_ciel.jpg)
 </details>
 
 Première fleur :
 si je devais t'(é)crire ou te dessiner, je n'aurais ni assez de mots ni assez de couleurs pour exprimer ce que je ressens pour toi
+avec le e 
 
 Deuxième fleur :
 j’aimerais me marier avec toi comme le chè(v)re et le miel

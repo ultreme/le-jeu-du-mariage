@@ -16,7 +16,7 @@ Pour l'instant, personne ne sait qui a fait le coup mais nous pensons que le mie
 
 # Déroulement du jeu :
 
-![](./img/img00.png)
+![](./img/déroulé.png)
 
 https://frama.link/bzzstory00
 

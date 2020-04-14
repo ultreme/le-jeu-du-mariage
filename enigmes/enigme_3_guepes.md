@@ -1,5 +1,6 @@
 ## Les guêpes sont en réalité des fausses piste !
 
-On y trouve des liens (ou des QR codes si vous voulez en implémenter et les imprimer) qui nous ramènent vers divers contenus pour donner un peu d'ambiance
+On trouve dans leur dos des liens (ou des QR codes si vous voulez en implémenter et les imprimer) qui nous ramènent vers divers contenus pour donner une ambiance graphique et sonore.
 
-https://frama.link/guepestueuses
+Premier lien : 
+On remercie Margay pour sa belle improvisation : https://frama.link/guepestueuses

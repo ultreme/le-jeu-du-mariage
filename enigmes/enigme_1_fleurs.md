@@ -2,6 +2,12 @@
 
 ***Chacun de ces petits mots contient une lettre entourée d'une couleur, il faudra utiliser la clé de résolution arc-en-ciel pour trouver l'ordre des couleurs***
 
+<details>
+  <summary>Clé de résolution arc-en-ciel, à trouver dans la pièce</summary>
+  
+![](./enigmes/clé_résolution_arc_en_ciel.jpg)
+</details>
+
 Première fleur :
 si je devais t'(é)crire ou te dessiner, je n'aurais ni assez de mots ni assez de couleurs pour exprimer ce que je ressens pour toi
 

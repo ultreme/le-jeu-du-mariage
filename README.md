@@ -1,4 +1,4 @@
-# open-escape
+# Le mariage du chèvre et du miel
 
 **L'intrigue
 
@@ -6,7 +6,7 @@ Vous passez une belle zournée, peut-être que la routine confinée commence à 
 D'un coup d'un seul, une abeille en panique arrive dans votre maison pour demander à toutes les personnes qui le veulent bien de l'aider pour un grand service.
 
 En effet, l'abeille a perdu son miel... Elle demande alors à tout le monde d'enfiler son plus beau costume et de la rejoindre au plus vite. 
-![](./img/image02.png)
+![](./img/img02.png)
 
 
 # Déroulement du jeu :

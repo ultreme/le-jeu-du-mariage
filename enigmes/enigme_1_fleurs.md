@@ -5,7 +5,7 @@
 <details>
   <summary>Clé de résolution arc-en-ciel, à trouver dans la pièce</summary>
   
-![](./enigmes/clé_résolution_arc_en_ciel.jpg)
+![](./clé_résolution_arc_en_ciel.jpg)
 </details>
 
 Première fleur :

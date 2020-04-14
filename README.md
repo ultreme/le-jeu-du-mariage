@@ -43,3 +43,6 @@ Vous pouvez poser les règles que vous voulez pour le jeu, néanmoins voici cell
 ## Déroulement du jeu :
 
 ![](./img/déroulé.png)
+
+![](./img/winnie_torture.gif)
+

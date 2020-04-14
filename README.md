@@ -1,5 +1,6 @@
 # Grand jeu libre
 Salut ! On crée une espèce d'escape game à la maison, je vais essayer de faire en sorte qu'il soit facile à comprendre et prendre en main.
+J'essaie d'expliquer comment ça se passe par ici, et le contenu du jeu est à trouver dans le dossier des énigmes
 
 # Le mariage du chèvre et du miel
 

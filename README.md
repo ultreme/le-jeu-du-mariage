@@ -1,6 +1,10 @@
 # Grand jeu libre
 Salut ! On crée une espèce d'escape game à la maison, je vais essayer de faire en sorte qu'il soit facile à comprendre et prendre en main.
-J'essaie d'expliquer comment ça se passe par ici, et le contenu du jeu est à trouver dans le dossier des énigmes
+J'essaie d'expliquer comment ça se passe par ici, de bien récapituler, et le contenu du jeu est à trouver dans le dossier des énigmes :-)
+
+Si tu veux faire plaisir à ton entourage, ce jeu devrait être un bon moment à partager !
+
+**Le jeu est prévu pour au moins 2 joueurs.euses, ton rôle à toi sera d'installer, d'animer et de veiller au bon déroulement du jeu***
 
 # Le mariage du chèvre et du miel
 

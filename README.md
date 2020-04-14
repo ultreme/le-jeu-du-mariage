@@ -11,7 +11,6 @@ Vous passez une belle zournée, peut-être que la routine confinée commence à 
 D'un coup d'un seul, une abeille en panique arrive dans votre maison avec un message :
 
 ![](./img/prologue.png)
-![](./img/clé_résolution.png)
 
 ## L'histoire
 

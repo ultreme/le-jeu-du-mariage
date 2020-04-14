@@ -12,6 +12,14 @@ D'un coup d'un seul, une abeille en panique arrive dans votre maison avec un mes
 
 ![](./img/prologue.png)
 
+<details>
+  <summary>Clé de résolution</summary>
+  
+  ![](./img/clé_résolution1.png)
+  
+</details>
+
+
 ## L'histoire
 
 Comment l'abeille a-t-elle perdu son miel ? Pourquoi faudrait-il que je l'aide ? 

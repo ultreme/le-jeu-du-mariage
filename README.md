@@ -1,3 +1,6 @@
+# Grand jeu libre
+Salut ! On crée une espèce d'escape game à la maison, je vais essayer de faire en sorte qu'il soit facile à comprendre et prendre en main.
+
 # Le mariage du chèvre et du miel
 
 ## L'intrigue 
@@ -9,7 +12,7 @@ D'un coup d'un seul, une abeille en panique arrive dans votre maison avec un mes
 
 ![](./img/img02.png)
 
-## L'histoire
+# L'histoire
 
 Comment l'abeille a-t-elle perdu son miel ? Pourquoi il faudrait que je l'aide ? 
 Pour l'instant, personne ne sait qui a fait le coup mais nous pensons que le miel a été kidnappé. Pas de bol, aujourd'hui c'était le grand jour pour lui et pour la chèvre, ces deux âmes soeurs allaient s'unir pour former un couple parfait jusqu'à la fin des temps.

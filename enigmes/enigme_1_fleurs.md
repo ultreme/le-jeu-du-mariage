@@ -12,7 +12,6 @@
 
 Première fleur :
 si je devais t'(é)crire ou te dessiner, je n'aurais ni assez de mots ni assez de couleurs pour exprimer ce que je ressens pour toi
-avec le e 
 
 Deuxième fleur :
 j’aimerais me marier avec toi comme le chè(v)re et le miel

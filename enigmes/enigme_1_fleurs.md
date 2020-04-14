@@ -22,7 +22,7 @@ t'es tellement doux.ce que si t'étais un gâteau raté, tu serais fondant.e à 
   <summary>cliquez ici</summary>
   
   É V I E R
-  --►Les participant.e.s doivent aller voir au niveau de l'évier. 
+  --► Les participant.e.s doivent aller voir au niveau de l'évier. 
 </details>
 
 # A la fin de cette épreuve, on récupère une boîte fermée par un cadenas à code.

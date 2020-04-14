@@ -13,7 +13,7 @@ D'un coup d'un seul, une abeille en panique arrive dans votre maison avec un mes
 ![](./img/prologue.png)
 
 <details>
-  <summary>Clé de résolution : **cliquez ici**</summary>
+  <summary>Clé de résolution : cliquez ici</summary>
   
   ![](./img/clé_résolution1.png)
   

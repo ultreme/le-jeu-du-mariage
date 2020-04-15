@@ -52,4 +52,6 @@ Contenu en stock :
 https://frama.link/lacanciondemargay
 
 ![](./img/winnie_torture.gif)
+![](./img/honorine.png)
+![](./img/honorine2.png)
 

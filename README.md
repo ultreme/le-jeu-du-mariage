@@ -2,7 +2,7 @@
 
 Ici j'essaie d'expliquer et de bien récapituler comment ça se passe.
 
-Si tu penses que ça peut faire plaisir à ton entourage, ce jeu est conçu pour être dans un esprit de légèreté et devrait être un bon moment à partager. Il est plutôt prévu pour être joué dans un jardin et au soleil par des personnes de 8 ans et plus mais devrait convenir à n'importe quel endroit. 
+Si tu penses que ça peut faire plaisir à ton entourage, ce jeu a été conçu dans un esprit léger et devrait être un bon moment à partager. Il est plutôt prévu pour être joué dans un jardin, au soleil par des personnes de 8 ans et plus mais devrait convenir à n'importe quel endroit. 
 
 **Le jeu est conçu pour au moins 2 joueurs.euses, ton rôle à toi sera d'installer, d'animer et de veiller au bon déroulement du jeu (et bien sûr beaucoup rigoler !)**
 

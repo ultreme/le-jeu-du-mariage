@@ -1,6 +1,6 @@
 # Une douzaine d'abeilles sont cachées dans la maison
 
-**Chacune de ces petites abeilles porte bout de chiffre dans son dos, il faut toutes les retrouver !**
+**Chacune de ces petites abeilles porte un bout de chiffre dans son dos, il faut toutes les retrouver !**
 
 **Notez que les guêpes en dessous ne sont pas des abeilles et que Queen Bee est obtenue à l'épreuve de Winnie**
 

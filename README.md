@@ -13,6 +13,7 @@ Si tu penses que ça peut faire plaisir à ton entourage, ce jeu est conçu pour
 # Le prologue
 
 *Cette partie se passe avant le début du jeu et a pour but de prévenir le public que quelque chose va se passer, vous pouvez envoyer l'image aux personnes concernées et leur faire comprendre qu'un jeu va se dérouler chez vous.*
+
 **Vous pouvez leur envoyer séparément le message codé et la clé de résolution (cliquez juste sous l'image) et les inviter ou non à se concerter pour savoir ce que veut dire l'abeille.**
 
 ![](./img/img02.png)

@@ -14,7 +14,7 @@ Si tu penses que ça peut faire plaisir à ton entourage, ce jeu est conçu pour
 **Vous pouvez également leur envoyer séparément le message codé et la clé de résolution (cliquez juste sous l'image) et les inviter ou non à se concerter pour savoir ce que veut dire l'abeille.**
 
 Vous passez une belle zournée, peut-être que la routine confinée commence à vous saoûler, mais auzourd'hui votre quotidien va être bouleverzé.
-D'un coup d'un seul, une abeille en panique arrive dans votre maison avec un message :
+D'un coup d'un seul, une abeille en panique arrive dans votre messagerie avec un message :
 
 ![](./img/img02.png)
 

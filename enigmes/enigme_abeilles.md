@@ -2,7 +2,7 @@
 
 **Chacune de ces petites abeilles porte bout de chiffre dans son dos, il faut toutes les retrouver !**
 
-**Notez que les guêpes en dessous ne sont pas des abeilles**
+**Notez que les guêpes en dessous ne sont pas des abeilles et que Queen Bee est obtenue à l'épreuve de Winnie**
 
  <img src="../img/queenbee.jpg" width="750" height="500">
  

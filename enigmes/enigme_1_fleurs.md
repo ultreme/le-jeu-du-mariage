@@ -3,11 +3,11 @@
 *Chacun de ces petits mots contient une lettre entourée d'une couleur, il faudra utiliser la clé de résolution arc-en-ciel pour trouver l'ordre des couleurs*
 
 <details>
-  <summary>Clé de résolution arc-en-ciel, à trouver dans la pièce</summary>
+  <summary> # Clé de résolution arc-en-ciel, à trouver dans la pièce</summary>
  
  Les lettres entourées sur les fleurs 1, 2, 3, 4 et 5 respectivement rouge, orange, jaune, vert puis bleu.
 
-![](../img/clé_résolution_arc_en_ciel.jpg)
+ <img src="../img/photo(1).jpg" width="600" height="400">
 </details>
 
 **Première fleur :**
@@ -34,8 +34,4 @@ Vous êtes tellement doux.ce.s que si vous étiez des gâteaux ratés, vous seri
   --► Les participant.e.s doivent aller voir au niveau de l'évier. 
 </details>
 
-# A la fin de cette épreuve, on récupère une boîte fermée par un cadenas à code.
-
-Voici ce que ça a donné chez nous :
-
- <img src="../img/photo(1).jpg" width="600" height="400">
+# A la fin de cette épreuve, on récupère une boîte fermée par un cadenas à code cachée quelque part près de l'évier.

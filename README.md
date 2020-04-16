@@ -49,10 +49,6 @@ Vous pouvez poser les règles que vous voulez pour le jeu, en voici quelques-une
 - les participant.e.s doivent se déguiser en abeille ou se préparer pour un mariage pendant que vous installer le jeu
 - les participant.e.s doivent se trouver un nom d'insecte et/ou un nom et cri d'équipe
 
-C'est parti !
-
-## Déroulement du jeu :
-
-![](./img/déroulé.png)
+## C'est parti !
 
 ### Pour mettre en place le jeu, rendez-vous dans le dossier "énigme" ou sur https://github.com/fenetre42/open-escape/tree/master/enigmes

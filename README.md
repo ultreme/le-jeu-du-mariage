@@ -1,7 +1,5 @@
 # LE MARIAGE SOMPTUEUX DE LA CHEVRE ET DU MIEL
 
-Salut ! On a crée un jeu à la maison pour se croire à la récré, en théorie c'est très facile à prendre en main et à reproduire chez soi.
-
 Ici j'essaie d'expliquer et de bien récapituler comment ça se passe.
 
 Si tu penses que ça peut faire plaisir à ton entourage, ce jeu est conçu pour être dans un esprit de légèreté et devrait être un bon moment à partager. Il est plutôt prévu pour être joué dans un jardin et au soleil par des personnes de 8 ans et plus mais devrait convenir à n'importe quel endroit. 

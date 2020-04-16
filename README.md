@@ -51,4 +51,4 @@ Vous pouvez poser les règles que vous voulez pour le jeu, en voici quelques-une
 
 ![](./img/déroulé.png)
 
-### Une fois le jeu démarré, la partie principale sera de fouiller les lieux pour retrouver toutes les abeilles, toutes les fleurs et Winnie l'Ourson qui se cache aussi quelque part. Pour ajouter un peu de fun, on a aussi mis des guêpes qui renvoient vers du contenu sympa, en lien avec le jeu ou l'ambiance, partagé par les copines et les copains.
+### Pour mettre en place le jeu, rendez-vous dans le dossier "énigme" ou sur https://github.com/fenetre42/open-escape/tree/master/enigmes

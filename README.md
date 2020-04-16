@@ -1,4 +1,4 @@
-# LE MARIAGE DE LA CHEVRE ET DU MIEL
+# LE MARIAGE SOMPTUEUX DE LA CHEVRE ET DU MIEL
 
 Salut ! On a crée un jeu à la maison pour se croire à la récré, en théorie c'est très facile à prendre en main et à reproduire chez soi.
 

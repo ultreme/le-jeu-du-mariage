@@ -1,7 +1,7 @@
 # Cinq fleurs sont cachées dans la maison et contiennent des petits mots qui attendent les joueurs.euses
 
 <details>
-  <summary>Les fleurs</summary>
+  <summary>Cliquez ici pour voir le contenu des fleurs</summary>
 
 **Première fleur :**
 Si je devais t'(é)crire ou te dessiner, je n'aurais ni assez de mots ni assez de couleurs pour exprimer ce que je ressens pour toi

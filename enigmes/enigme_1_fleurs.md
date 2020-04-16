@@ -7,7 +7,7 @@
  
  Les lettres entourées sur les fleurs 1, 2, 3, 4 et 5 respectivement rouge, orange, jaune, vert puis bleu.
 
-![](img/clé_résolution_arc_en_ciel.jpg)
+![](../img/clé_résolution_arc_en_ciel.jpg)
 </details>
 
 **Première fleur :**

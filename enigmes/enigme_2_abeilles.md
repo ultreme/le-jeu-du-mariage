@@ -8,6 +8,6 @@
  
  # Les guêpes viennent fausser les pistes
  
-*Les guêpes sont légèrement différentes et les joueur.euses devraient capter cette différence après plusieurs minutes de jeu. Elles permettent ici de partager divers contenus créatifs, de donner quelques indices et de changer l'atmopshère.*
+*Les guêpes sont légèrement différentes et les joueur.euses devraient capter cette différence après plusieurs minutes de jeu. Elles permettent ici de partager divers contenus créatifs, leur faire perdre un peu de temps pour se renseigner sur les guêpes tueuses en Chine, donner quelques indices et changer l'atmopshère.*
  
  <img src="../img/queenbee2.jpg" width="750" height="500">

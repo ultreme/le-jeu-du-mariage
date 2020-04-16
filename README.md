@@ -16,6 +16,8 @@ Si tu penses que ça peut faire plaisir à ton entourage, ce jeu est conçu pour
 
 **Vous pouvez leur envoyer séparément le message codé et la clé de résolution (cliquez juste sous l'image) et les inviter ou non à se concerter pour savoir ce que veut dire l'abeille.**
 
+*Attention, envoyez uniquement le lien de l'image sinon les participant.es pourraient se retrouver sur ce site et récupérer les réponses.*
+
 ![](./img/img02.png)
 
 <details>

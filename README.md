@@ -1,16 +1,16 @@
 # Grand jeu libre
 Salut ! On crée une espèce d'escape game à la maison, je vais essayer de faire en sorte qu'il soit facile à comprendre et prendre en main.
-J'essaie d'expliquer comment ça se passe par ici, de bien récapituler, et le contenu du jeu est à trouver dans le dossier des énigmes :-)
+J'essaie d'expliquer comment ça se passe par ici, de bien récapituler et vous expliquer comment ça se passe.
 
-Si tu veux faire plaisir à ton entourage, ce jeu devrait être un bon moment à partager !
+Si tu penses que ça peut faire plaisir à ton entourage, ce jeu est conçu pour être dans un esprit de légèreté et devrait être un bon moment à partager. Il est plutôt prévu pour être joué dans un jardin et au soleil par des personnes de 8 ans et plus mais devrait convenir à n'importe quel endroit. 
 
-**Le jeu est prévu pour au moins 2 joueurs.euses, ton rôle à toi sera d'installer, d'animer et de veiller au bon déroulement du jeu***
+**Le jeu est prévu pour au moins 2 joueurs.euses, ton rôle à toi sera d'installer, d'animer et de veiller au bon déroulement du jeu**
 
 # Le mariage du chèvre et du miel
 
 ## L'intrigue 
 
-*Cette partie se passe avant le début du jeu et a pour but de prévenir le public que quelque chose va se passer, vous pouvez envoyer l'image aux personnes concernées et leur faire comprendre qu'un jeu va se dérouler chez vous.*
+*Cette partie se passe avant le début du jeu et a pour but de prévenir le public que quelque chose va se passer, vous pouvez envoyer l'image aux personnes concernées et leur faire comprendre qu'un jeu va se dérouler chez vous. Vous pouvez également leur envoyer séparément le message codé et la clé de résolution et les inviter ou non à se concerter*
 
 Vous passez une belle zournée, peut-être que la routine confinée commence à vous saoûler, mais auzourd'hui votre quotidien va être bouleverzé.
 D'un coup d'un seul, une abeille en panique arrive dans votre maison avec un message :
@@ -27,7 +27,10 @@ D'un coup d'un seul, une abeille en panique arrive dans votre maison avec un mes
 
 ## L'histoire
 
-*Comment l'abeille a-t-elle perdu son miel ? Pourquoi faudrait-il que je l'aide ? S'agit-il d'un complot du syndicat des apiculteurs ?*
+*Cette partie se passe avant le début du jeu et a pour but de prévenir le public que quelque chose va se passer, vous pouvez envoyer l'image aux personnes concernées et leur faire comprendre qu'un jeu va se dérouler chez vous. Vous pouvez également leur envoyer respectivement le message codé et la clé de résolution et les inviter ou non à se concerter*
+
+
+Comment l'abeille a-t-elle perdu son miel ? Pourquoi faudrait-il que je l'aide ? S'agit-il d'un complot du syndicat des apiculteurs ?
 
 Pour l'instant, personne ne sait qui a fait le coup mais nous sommes à peu près sûr que le miel a été kidnappé ! C'est vraiment pas de bol, aujourd'hui c'était le grand jour pour lui et pour la chèvre, les deux âmes soeurs allaient s'unir pour former un couple parfait jusqu'à la fin des temps. 
 
@@ -39,11 +42,12 @@ Il paraît que même Winnie l'Ourson est dans le coin, en temps que grand amateu
 
 ## Règles du jeu
 
-Vous pouvez poser les règles que vous voulez pour le jeu, néanmoins voici celles que l'on propose :
+Vous pouvez poser les règles que vous voulez pour le jeu, en voici quelques-unes que vous pouvez proposer :
 - les participant.e.s doivent ajouter des bzz bzz dans leurs phrases
-- les indices servent une seule fois
-- la fouille ne se passera pas au dessus du niveau des épaules
+
 
 ## Déroulement du jeu :
 
 ![](./img/déroulé.png)
+
+Une fois le jeu démarré, la partie principale sera de fouiller les lieux pour retrouver toutes les abeilles, toutes les fleurs et Winnie l'Ourson qui se cache aussi quelque part. Pour ajouter un peu de fun, on a aussi mis des guêpes qui renvoient vers du contenu sympa, en lien avec le jeu ou l'ambiance, partagé par les copines et les copains.

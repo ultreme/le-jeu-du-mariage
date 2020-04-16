@@ -30,7 +30,7 @@ Tu es tellement doux.ce.s que si tu étais un gâteau raté, tu serais fondant.e
 <details>
   <summary>Cliquez ici</summary>
   
-  Les lettres entourées sur les fleurs 1, 2, 3, 4 et 5 respectivement rouge, orange, jaune, vert puis bleu nous donnent le code
+  Les lettres entourées sur les fleurs en suivant l'ordre des couleurs sur l'arc-en-ciel nous donnent le code ...
   
   **É V I E R**
   

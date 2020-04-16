@@ -38,4 +38,4 @@ Vous êtes tellement doux.ce.s que si vous étiez des gâteaux ratés, vous seri
 
 Voici ce que ça a donné chez nous :
 
-![](../img/photo(1).jpg =250x250)
+![](../img/photo(1).jpg = 250x250)

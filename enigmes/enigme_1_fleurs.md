@@ -26,13 +26,11 @@ Tu es tellement doux.ce.s que si tu étais un gâteau raté, tu serais fondant.e
  <img src="../img/photo(1).jpg" width="600" height="400">
  
 
-## La solution à l'énigme est :
+## Les lettres entourées sur les fleurs en suivant l'ordre des couleurs sur l'arc-en-ciel nous donnent le code ... :
 <details>
   <summary>Cliquez ici</summary>
   
-  Les lettres entourées sur les fleurs en suivant l'ordre des couleurs sur l'arc-en-ciel nous donnent le code ...
-  
-  **É V I E R**
+  ## É V I E R
   
   --► Les participant.e.s doivent aller voir au niveau de l'évier. 
 </details>

@@ -47,11 +47,3 @@ Vous pouvez poser les règles que vous voulez pour le jeu, néanmoins voici cell
 ## Déroulement du jeu :
 
 ![](./img/déroulé.png)
-
-Contenu en stock :
-https://frama.link/lacanciondemargay
-
-![](./img/winnie_torture.gif)
-![](./img/honorine.jpg)
-![](./img/honorine2.jpg)
-

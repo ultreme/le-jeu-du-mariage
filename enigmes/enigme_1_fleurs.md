@@ -2,28 +2,32 @@
 
 *Chacun de ces petits mots contient une lettre entourée d'une couleur, il faudra utiliser la clé de résolution arc-en-ciel pour trouver l'ordre des couleurs*
 
-<details>
-  <summary> # Clé de résolution arc-en-ciel, à trouver dans la pièce</summary>
+ # On trouve la clé de résolution Arc-en-ciel dans l'espace du jeu
  
  Les lettres entourées sur les fleurs 1, 2, 3, 4 et 5 respectivement rouge, orange, jaune, vert puis bleu.
 
  <img src="../img/photo(1).jpg" width="600" height="400">
-</details>
+ 
+<details>
+  <summary>Les fleurs</summary>
+
+Vous pouvez bien sûr changer les fleurs, on s'est dit que 
 
 **Première fleur :**
-Si je devais vous (é)crire ou vous dessiner, je n'aurais ni assez de mots ni assez de couleurs pour exprimer ce que je ressens pour vous
+Si je devais t'(é)crire ou te dessiner, je n'aurais ni assez de mots ni assez de couleurs pour exprimer ce que je ressens pour toi
 
 **Deuxième fleur :**
-J’aimerais me marier avec vous comme le chè(v)re et le miel
+J’aimerais me marier avec toi comme le chè(v)re et le miel
 
 **Troisième fleur :**
-Vous n'êtes peut-être pas des baguettes mais vous êtes mag(i)ques !
+T'es peut-être pas une baguette mais vous t'es mag(i)que !
 
 **Quatrième fleur :**
-Vous êtes plus joli(e)s que des roses et vous sentez meilleur que les Lilas
+Tu es plus joli(e) qu'une rose et tu sens meilleur qu'un Lilas
 
 **Cinquième fleur :**
-Vous êtes tellement doux.ce.s que si vous étiez des gâteaux ratés, vous seriez fondant.e.s à inté(r)ieur
+Tu es tellement doux.ce.s que si tu étais un gâteau raté, tu serais fondant.e à inté(r)ieur
+</details>
 
 ## La solution à l'énigme est :
 <details>

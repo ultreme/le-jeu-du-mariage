@@ -35,3 +35,7 @@ Vous êtes tellement doux.ce.s que si vous étiez des gâteaux ratés, vous seri
 </details>
 
 # A la fin de cette épreuve, on récupère une boîte fermée par un cadenas à code.
+
+Voici ce que ça a donné chez nous :
+
+![](../img/photo(1).jpg =250x250)

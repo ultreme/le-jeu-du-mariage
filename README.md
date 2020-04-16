@@ -8,9 +8,10 @@ Si tu penses que ça peut faire plaisir à ton entourage, ce jeu est conçu pour
 
 # Le mariage du chèvre et du miel
 
-## L'intrigue 
+## Le prologue
 
-*Cette partie se passe avant le début du jeu et a pour but de prévenir le public que quelque chose va se passer, vous pouvez envoyer l'image aux personnes concernées et leur faire comprendre qu'un jeu va se dérouler chez vous. Vous pouvez également leur envoyer séparément le message codé et la clé de résolution et les inviter ou non à se concerter*
+*Cette partie se passe avant le début du jeu et a pour but de prévenir le public que quelque chose va se passer, vous pouvez envoyer l'image aux personnes concernées et leur faire comprendre qu'un jeu va se dérouler chez vous.*
+**Vous pouvez également leur envoyer séparément le message codé et la clé de résolution (cliquez juste sous l'image) et les inviter ou non à se concerter**
 
 Vous passez une belle zournée, peut-être que la routine confinée commence à vous saoûler, mais auzourd'hui votre quotidien va être bouleverzé.
 D'un coup d'un seul, une abeille en panique arrive dans votre maison avec un message :

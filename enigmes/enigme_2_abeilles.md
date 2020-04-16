@@ -12,5 +12,5 @@
  
  <img src="../img/queenbee2.jpg" width="750" height="500">
 
-## Grâce aux abeilles vous obtenez les chiffres 2 et 0.
-**La Queen Bee qui porte le numéro 8 sera donnée par Winnie l'Ourson.**
+## Grâce aux abeilles on obtient les chiffres 2 et 0.
+**La Queen Bee qui porte le numéro 8 sera donnée par Winnie l'Ourson après son défi.**

@@ -28,11 +28,11 @@ Tu es tellement doux.ce.s que si tu étais un gâteau raté, tu serais fondant.e
 
 ## Les lettres entourées sur les fleurs en suivant l'ordre des couleurs sur l'arc-en-ciel nous donnent le code ... :
 <details>
-  <summary>Cliquez ici</summary>
+  <summary>Cliquez ici, mais normalement vous l'avez déjà trouvé</summary>
   
   ## É V I E R
   
-  --► Les participant.e.s doivent aller voir au niveau de l'évier. 
+ ### --► Les participant.e.s doivent aller voir au niveau de l'évier. 
 </details>
 
 # A la fin de cette épreuve, on récupère une boîte fermée par un cadenas (ou un faux cadenas) à code cachée quelque part près de l'évier.

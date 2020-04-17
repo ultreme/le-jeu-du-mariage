@@ -8,6 +8,12 @@ Si tu penses que ça peut faire plaisir à ton entourage, ce jeu a été conçu 
 
 ## Le jeu est tout à fait libre à interprétation, si celui-ci vous inspire faites vous plaisir, sinon vous pouvez le réadapter à votre guise :-)
 
+# Matériel nécessaire :
+
+- Une paire de ciseaux
+- Du scotch, du fil ou de la pâte à fixer
+- 6 stylos, crayons ou feutres de couleurs différentes
+
 # Le prologue
 
 *Cette partie se passe avant le début du jeu et a pour but de prévenir le public que quelque chose va se passer, vous pouvez envoyer l'image aux personnes concernées et leur faire comprendre qu'un jeu va se dérouler chez vous.*

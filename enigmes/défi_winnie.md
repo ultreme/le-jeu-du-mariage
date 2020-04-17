@@ -1,10 +1,10 @@
 # Winnie vous accueille avec une idée derrière la tête
 
-<img src="../img/photo(4).jpg" width="600" height="450">
+<img src="../img/photo(4).jpg" width="550" height="500">
 
 # Winnie a soif ! Très soif !
 
-<img src="../img/photo(5).jpg" width="600" height="450">
+<img src="../img/photo(5).jpg" width="550" height="500">
 
 **Il demande alors aux joueur.euses de bien vouloir lui ramener un grand verre d'eau !**
 

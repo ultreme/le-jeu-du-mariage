@@ -1,10 +1,12 @@
 # LE MARIAGE SOMPTUEUX DE LA CHEVRE ET DU MIEL
 
-Ici j'essaie d'expliquer et de bien récapituler comment ça se passe.
+- Ici j'essaie d'expliquer et de bien récapituler comment ça se passe.
 
-Si tu penses que ça peut faire plaisir à ton entourage, ce jeu a été conçu dans un esprit léger et devrait être un bon moment à partager. Il est plutôt prévu pour être joué dans un jardin, au soleil par des personnes de 8 ans et plus mais devrait convenir à n'importe quel endroit. 
+- Si tu penses que ça peut faire plaisir à ton entourage, ce jeu a été conçu dans un esprit léger et devrait être un bon moment à partager. 
 
-**Le jeu est conçu pour au moins 2 joueurs.euses, ton rôle à toi sera d'installer, d'animer et de veiller au bon déroulement du jeu (et bien sûr beaucoup rigoler !)**
+- Le jeu est plutôt prévu pour être joué dans un jardin, au soleil par des personnes de 8 ans et plus mais devrait convenir à n'importe quel endroit. 
+
+- Prévu pour au moins 2 joueurs.euses, ton rôle à toi sera d'installer, d'animer et de veiller au bon déroulement du jeu (et bien sûr beaucoup rigoler !)
 
 ## Le jeu est tout à fait libre à interprétation, si celui-ci vous inspire faites vous plaisir, sinon vous pouvez le réadapter à votre guise :-)
 
@@ -40,11 +42,11 @@ Après avoir reçu le message de l'abeille et décodé son code, vous avez dû v
 
 Ben oui, comment l'abeille a-t-elle perdu son miel ? Pourquoi faudrait-il que je l'aide ? S'agit-il d'un complot du syndicat des apiculteurs pro-Zemmour ? 
 
-C'est vraiment pas de bol, aujourd'hui c'était le grand jour pour le miel et pour la chèvre, les deux âmes soeurs allaient s'unir pour former un couple parfait jusqu'à la fin des temps. Nous sommes à peu près certains que le miel a été kidnappé ! Mais nous ne savons pas qui a fait le coup
+- C'est vraiment pas de bol, aujourd'hui c'était le grand jour pour le miel et pour la chèvre, les deux âmes soeurs allaient s'unir pour former un couple parfait jusqu'à la fin des temps. Nous sommes à peu près certains que le miel a été kidnappé ! Mais nous ne savons pas qui a fait le coup
 
 **Vous allez devoir aider la chèvre et les abeilles à retrouver le miel, sans quoi le mariage ne pourra pas avoir lieu !**
 
-Pour cela, vous allez devoir interroger les fleurs, on raconte qu'elles ont les pétales très à l'écoute. 
+- Pour cela, vous allez devoir interroger les fleurs, on raconte qu'elles ont les pétales très à l'écoute. 
 Les abeilles seront parmi vos meilleures alliées, retrouvez les toutes ! 
 Il paraît que même Winnie l'Ourson est dans le coin, en temps que grand amateur de Miel il pourra sans doute vous aider dans vos recherches.
 

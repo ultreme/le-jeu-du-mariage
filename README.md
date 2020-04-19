@@ -60,3 +60,15 @@ Vous pouvez poser les règles que vous voulez pour le jeu, en voici quelques-une
 ## C'est parti !
 
 ### Pour mettre en place le jeu, rendez-vous dans le dossier "énigme" ou sur https://github.com/fenetre42/open-escape/tree/master/enigmes
+
+Merci à toute cette liste de personnes pour leurs créations artistiques, exploitées ou non :
+
+Juliette
+Honorine
+Elaine
+Gajeb
+AltoRosa
+Porcherie
+Margay
+Ligne de Base
+pandark

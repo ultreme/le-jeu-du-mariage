@@ -63,13 +63,13 @@ Vous pouvez poser les règles que vous voulez pour le jeu, en voici quelques-une
 
 Merci à toute cette liste de personnes pour leurs créations artistiques, exploitées ou non :
 
-Honorine
-Elaine
-Gajeb
-AltoRosa
-Porcherie
-Margay
-Ligne de Base
-pandark
+- Honorine
+- Elaine
+- Gajeb
+- AltoRosa
+- Porcherie
+- Margay
+- Ligne de Base
+- pandark
 
 ### Un jeu conçu par Juliette et fenetre
